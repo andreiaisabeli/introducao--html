@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+body{
+    background-color: #B9DA9C;
+}
+.titulo{
+    color: #2F3B25;
+}
+h2 {
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    color: rgb(59, 94, 28);
+}
+h3{
+    color:rgb(59, 94, 28)
+}
+body {
+    font-family: 'Lora', serif;
+    font-size: 13px;
+}
+.container {
+    color:rgb(59, 94, 28);
+    background-color: rgb(224, 247, 224);
+    height: 200px;
+}
+/*62A725 - Green RYB
+5B9E20 - Green RYB
+2F3B25 - Kombu Green
+1B3605 - Forest Green Traditional
+B9DA9C - Granny Smith apple*/

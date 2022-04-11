@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+
+div{
+    border: 2px solid blue;
+    height: 200px;
+    width: 200px;
+}
+
+.container{
+    background: grey;
+    width: 100%;
+    height: 100%;
+    margin-top: 100px;
+    position: relative;
+}
+
+#teste{
+    /*position: absolute;*/
+    position: fixed;
+    /*left: 100px;*/
+    /*right: 0;*/
+    /*bottom: 0;*/
+    /*top: 100px;*/
+    background: red;
+    width: 100%;
+    height: 65px;
+    top: 0;
+}
+
+p{
+    background: purple;
+    height: 100px;
+}
